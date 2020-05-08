@@ -1,3 +1,5 @@
  this is balaji first project to test
  just to check the command how git diff works added
  the text phrase
+
+ this is to validate git amend
